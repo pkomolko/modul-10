@@ -1,0 +1,25 @@
+#carousel{
+	margin: 0 auto;
+	width: 400px;
+	height: 400px;
+	overflow: hidden;
+}
+#carousel ul{
+	width: 2000px;
+	list-style-type: none;
+	height: 400px;
+	margin-left: -440px;
+
+}
+
+#carousel ul li{
+	width: 400px;
+	float: left;
+}
+.buttons{
+	text-align: center;
+}
+.buttons button{
+	border: none;
+	background-color: white;
+}
